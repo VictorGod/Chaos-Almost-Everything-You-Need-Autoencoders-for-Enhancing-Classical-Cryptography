@@ -310,51 +310,5 @@ $x_{n+1} = r \cdot x_n \cdot (1 - x_n)$
   В исходном коде содержатся подробные комментарии, описывающие функциональные блоки и алгоритмические решения.
 
 
-## 10. Список источников
 
-1. NIST. Post-Quantum Cryptography Standardization Project. URL: [https://csrc.nist.gov/projects/post-quantum-cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography)
-2. Cloudflare Blog (2022). *NIST’s Pleasant Post-Quantum Surprise*. URL: [https://blog.cloudflare.com/nist-post-quantum-surprise](https://blog.cloudflare.com/nist-post-quantum-surprise)
-3. Elkabbany, G.F. et al. (2023). “Lightweight Computational Complexity Stepping Up the NTRU Post-Quantum Algorithm Using Parallel Computing.” *Symmetry*, 16(1), 12.
-4. Wan, W. et al. (2022). “Accelerating Kyber Post-Quantum Cryptography on GPUs.” *ACM Transactions on Architecture and Code Optimization*, 19(3).
-5. Schneier, B. (2023). *Side-Channel Attack against CRYSTALS-Kyber*. Bruce Schneier’s Blog.
-6. Bernstein, D.J. et al. (2011). *The security impact of a new cryptographic library.* NIST submission paper.
-7. OpenSSL. Speed benchmark results. URL: [https://www.openssl.org/docs/man1.1.1/man1/speed.html](https://www.openssl.org/docs/man1.1.1/man1/speed.html)
-8. Kumar, K. et al. (2024). “MAN-C: A Masked Autoencoder Neural Cryptography Based Encryption Scheme for CT Scan Images.” *MethodsX*, 12, 102456.
-9. Kanter, I., Kinzel, W. et al. (2002). “Secure exchange of information by synchronization of neural networks.” *Europhysics Letters*, 57(1), 141–147.
-10. Wang, Q. et al. (2023). “AutoEncoder Based Image Cryptosystem Using Latent Space Transformations.” *Future Internet*, 15(2), 42.
-11. Zou, W. et al. (2022). “Secure communication using chaotic activation neural networks.” *Nonlinear Dynamics*, 107, 1669–1684.
-12. Ye, G. et al. (2020). “An Asymmetric Image Encryption Algorithm Based on a Fractional-Order Chaotic System and the RSA Cryptosystem.” *International Journal of Bifurcation and Chaos*, 30(12):2050233.
-13. Flores-Carapia, R. et al. (2023). “A Dynamic Hybrid Cryptosystem Using Chaos and Diffie–Hellman Protocol: An Image Encryption Application.” *Applied Sciences*, 13(12), 7168.
-14. Qobbi, M. et al. (2023). “A Novel Encryption Algorithm for Medical Images Using Chaotic Maps and a Genetic Algorithm-Optimized S-box.” *Alexandria Engineering Journal*, 74, 43–55.
-15. Yousif, S.F. et al. (2020). “Robust Image Encryption with Scanning Technology, the El-Gamal Algorithm and Chaos Theory.” *IEEE Access*, 8, 155184–155209.
-16. Banik, A., Maiti, S. et al. (2022). “Secret image encryption based on chaotic system and elliptic curve cryptography.” *Digital Signal Processing*, 129, 103639.
-17. Chowdhary, C.L. et al. (2020). “Analytical Study of Hybrid Techniques for Image Encryption and Decryption.” *Sensors*, 20(18), 5162.
-18. Alohali, M. et al. (2023). “Blockchain-Oriented Chaotic Image Encryption Model for IoMT.” *Computers, Materials & Continua*, 74(3), 6227–6245.
-19. Mahmood, Z. et al. (2023). “A novel chaotic map for improving entropy and robustness in image encryption.” *Computers & Security*, 131, 103185.
-20. El-Hoseny, H. et al. (2022). “Image encryption techniques: a systematic review.” *Multimedia Tools and Applications*, 81, 22963–22997.
-21. Tiwari, R. et al. (2023). “Image encryption using deep learning models and chaos theory: A review.” *Journal of King Saud University – Computer and Information Sciences*.
-22. Shannon, C.E. (1948). “A Mathematical Theory of Communication.” *Bell System Technical Journal*, 27(3), 379–423.
-23. Stinson, D.R. (2005). *Cryptography: Theory and Practice* (3rd ed.). CRC Press.
-24. Stallings, W. (2017). *Cryptography and Network Security* (7th ed.). Pearson.
-25. RFC 8017: *PKCS #1: RSA Cryptography Specifications Version 2.2*. IETF, November 2016.
-26. Saini, A., Sehrawat, R. (2024). “Enhancing Data Security through Machine Learning-based Key Generation and Encryption.” *Engineering, Technology and Applied Science Research*, 14(3), 14148–14154. DOI:10.48084/etasr.7181
-27. Valencia-Ramos, R. et al. (2022). “An Asymmetric-key Cryptosystem based on Artificial Neural Network.” Proc. 14th Int. Conf. on Agents and Artificial Intelligence. DOI:10.5220/0010857700003116
-28. Anaz, A.S. et al. (2022). “Signal multiple encodings by using autoencoder deep learning.” *Bulletin of Electrical Engineering and Informatics*, 12(1). DOI:10.11591/eei.v12i1.4229
-29. Hu, A. et al. (2023). “Joint Encryption Model Based on a Randomized Autoencoder Neural Network and Coupled Chaos Mapping.” *Entropy*, 25(8):1153. DOI:10.3390/e25081153
-30. Sagar, V. et al. (2019). “Autoencoder Artificial Neural Network Public Key Cryptography in Unsecure Public channel Communication.” *Int. J. of Innovative Technology and Exploring Engineering*, 8(11). DOI:10.35940/ijitee.K1456.0981119
-31. Alslman, Y. et al. (2022). “Hybrid Encryption Scheme for Medical Imaging Using AutoEncoder and AES.” *Electronics*, 11(23), 3967. DOI:10.3390/electronics11233967
-32. Sabha, I. et al. (2023). “CESCAL: A joint compression-encryption scheme based on convolutional autoencoder and logistic map.” *Multimedia Tools and Applications*, 83(11), 32069–32098. DOI:10.1007/s11042-023-16698-8
-33. Quinga-Socasi, F. et al. (2020). “Digital Cryptography Implementation using Neurocomputational Model with Autoencoder Architecture.” Proc. 12th Int. Conf. on Agents and Artificial Intelligence. DOI:10.5220/0009154900003116
-34. El-Kafrawy, P. et al. (2022). “Efficient Encryption and Compression of IoT Medical Images Using Auto-Encoder.” *Computers, Materials & Continua*, 134(2), 1173–1189. DOI:10.32604/cmes.2022.019511
-35. Quinga-Socasi, F. et al. (2020). “A Deep Learning Approach for Symmetric-Key Cryptography System.” Adv. in Intelligent Systems and Computing, 1288, 515–525. DOI:10.1007/978-3-030-63128-4\_41
-36. Wang, M. et al. (2021). “Encrypted Traffic Classification Framework Based on CNN and Autoencoders.” *Journal of Network and Computer Applications*, 179, 102999. DOI:10.1016/j.jnca.2021.102999
-37. Gaffar, A.F.O. et al. (2019). “ML-AENN for Encryption and Decryption of Text Message.” Proc. 5th Int. Conf. on Computer and Communication Systems. DOI:10.1109/ICCCS.2019.8888090
-38. Hu, A. et al. (2022). “Joint Optimization–Encryption Model Based on Autoencoder, Dynamic S-Box and Stream Encryption.” *International Journal of Bifurcation and Chaos*, 32(12), 2250232. DOI:10.1142/S0218127422502327
-39. Al-Ani, A. et al. (2020). “Multi-Encryptions System Based on Autoencoder.” *Solid State Technology*, 63(6), 3495–3505.
-40. Zhang, Y. et al. (2016). “Image compression and encryption based on deep learning.” arXiv:1608.05001.
-41. Liu, Y. et al. (2021). “Adversarial autoencoder based on asymmetric encryption.” *Multimedia Tools and Applications*, 80(15), 23219–23238. DOI:10.1007/s11042-021-11043-3
-42. Sun, Y. et al. (2021). “Image Encryption Based on Logistic Chaotic Systems and Deep Autoencoder.” *Pattern Recognition Letters*, 153, 59–65. DOI:10.1016/j.patrec.2021.10.003
-43. Lotfollahi, M. et al. (2017). “Deep Packet: Encrypted Traffic Classification Using DL.” arXiv:1709.02656. URL: [https://arxiv.org/abs/1709.02656](https://arxiv.org/abs/1709.02656)
-44. Nazarenko, E. et al. (2022). “Chaos-Based Cryptography Using Chua Circuits.” arXiv:2210.11299. URL: [https://arxiv.org/abs/2210.11299](https://arxiv.org/abs/2210.11299)
-45. Natiq, H. et al. (2020). “Duffing Map for Asymmetric Image Encryption.” arXiv:2011.02347. URL: [https://arxiv.org/abs/2011.02347](https://arxiv.org/abs/2011.02347)
 
